@@ -111,6 +111,11 @@ hr{
 .dropdown_menu.dropdown_menu--animated.dropdown_menu-6{
 padding: 0px 10px 20px;
 }
+.dropdown_menu li span {
+
+    padding-right: 20px;
+
+}
 .drop-icon{
     background: url(./assets/icon_01strength.svg) center ;
     height: 10px;
