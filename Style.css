@@ -244,6 +244,14 @@ padding: 0px 10px 20px;
     }
 }
 @media (max-width: 767px) {
+    header h1 {
+        font-family:larsseitlight;
+        font-weight: 300;
+        font-size: 35px;
+        line-height: 100%;
+        color: #3A5F83;
+        margin-top: 8px;
+    }
     .lob-value{
         background: linear-gradient( #E5E5E5 50%, #C5D6E6
         50%)!important;
