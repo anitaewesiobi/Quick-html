@@ -52,6 +52,7 @@ header h1 {
     font-size: 35px;
     line-height: 100%;
     color: #3A5F83;
+    margin-top: 140px;
 }
 header p{
     font-family:larsseitregular;
@@ -94,7 +95,7 @@ hr{
 .lob-value{
     background: linear-gradient( #EBF0F6 50%, #C5D6E6
     50%) !important;
-    padding-top: 220px;
+    padding-top: 170px;
 }
 .cat-img{
     max-width: 55.5% !important;
@@ -104,7 +105,7 @@ hr{
     vertical-align: bottom;
 }
 .right-col{
-    padding: 100px 199px 200px 100px;
+    padding: 0px 199px 0px 100px;
 }
 
 /* Dropdown menu */
